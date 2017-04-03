@@ -624,18 +624,18 @@
             "Theme"
           ],
           "_name": "content2",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "content2-16",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<br><blockquote><p><span style=\"font-style: normal;\">It takes some work to get used to managing your time effectively, especially your senior year of high school. There are so many tests that are going on, on top of applications to take care of, etc. The best solution to this is to keep track of everything with some sort of reminder. Most community colleges in your area offer free workshops on this topic. It would be useful to know more about this topic by attending.&nbsp;</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Useful Tip: Apply the <b>80/20 rule</b> as mentioned by Italian economist Vilfredo Pareto (Prochaska-Cue, Mahar &amp; Preston, 2007). Basically, he noted that <b>80 percent of the reward comes from 20 percent of the effort</b> (Prochaska-Cue, Mahar &amp; Preston, 2007).</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Please take a look and click on the link to this useful PDF written by Kathleen M. Prochaska-Cue, Carla J. Mahar, and Sandra D. Preston entitled </span><a href=\"http://extensionpublications.unl.edu/assets/pdf/g1772.pdf\" target=\"_blank\">Thirteen Timely Tips for More Effective Time Management</a>.</p><p><br></p><p><span style=\"font-style: normal;\">References</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Prochaska-Cue, K. M., Mahar, C. J., &amp; Preston, S. D. (2007). Thirteen Timely Tips for More Effective Time Management. Retrieved from http://extensionpublications.unl.edu/assets/pdf/g1772.pdf</span></p><p><br></p><p>Please return to Dream Big and Achieve on Cloud 9 (PDF) and Complete Task</p></blockquote>",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            }
-          }
+          "text": "<br><blockquote><p><span style=\"font-style: normal;\">It takes some work to get used to managing your time effectively, especially your senior year of high school. There are so many tests that are going on, on top of applications to take care of, etc. The best solution to this is to keep track of everything with some sort of reminder. Most community colleges in your area offer free workshops on this topic. It would be useful to know more about this topic by attending.&nbsp;</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Useful Tip: Apply the <b>80/20 rule</b> as mentioned by Italian economist Vilfredo Pareto (Prochaska-Cue, Mahar &amp; Preston, 2007). Basically, he noted that <b>80 percent of the reward comes from 20 percent of the effort</b> (Prochaska-Cue, Mahar &amp; Preston, 2007).</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Please take a look and click on the link to this useful PDF written by Kathleen M. Prochaska-Cue, Carla J. Mahar, and Sandra D. Preston entitled </span><a href=\"http://extensionpublications.unl.edu/assets/pdf/g1772.pdf\" target=\"_blank\">Thirteen Timely Tips for More Effective Time Management</a>.</p><p><br></p><p><span style=\"font-style: normal;\">References</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Prochaska-Cue, K. M., Mahar, C. J., &amp; Preston, S. D. (2007). Thirteen Timely Tips for More Effective Time Management. Retrieved from http://extensionpublications.unl.edu/assets/pdf/g1772.pdf</span></p><p><br></p><p>Please return to Dream Big and Achieve on Cloud 9 (PDF) and Complete Task</p></blockquote>"
         }
       ]
     },
