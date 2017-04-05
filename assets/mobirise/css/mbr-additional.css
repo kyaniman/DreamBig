@@ -684,11 +684,17 @@ h6,
 #header6-19 .mbr-section-text {
   color: #565656;
 }
-#msg-box8-1a .mbr-section-title,
-#msg-box8-1a p {
+#msg-box8-1h .mbr-section-title,
+#msg-box8-1h p {
   color: #fff;
 }
-#content2-1b P {
+#msg-box8-1h .lead {
+  color: #ffffff;
+}
+#content2-1g P {
+  text-align: left;
+}
+#content2-1i P {
   text-align: left;
 }
 #ext_menu-d .hide-buttons .nav-btn {
@@ -757,6 +763,13 @@ h6,
 }
 #header6-1c .mbr-section-text {
   color: #565656;
+}
+#msg-box8-1j .mbr-section-title,
+#msg-box8-1j p {
+  color: #fff;
+}
+#msg-box8-1j .lead {
+  color: #ffffff;
 }
 #ext_menu-i .hide-buttons .nav-btn {
   display: none !important;

@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 50,
+    "uniqCompNum": 56,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -811,13 +811,16 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".lead": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-1a",
+          "_anchor": "msg-box8-1h",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -838,7 +841,7 @@
             "showButton": false
           },
           "title": "Organization Skills",
-          "text": "<p>How do I become well-organized?</p>",
+          "text": "How do I become well-organized?",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -851,13 +854,13 @@
               "text-align": "left"
             }
           },
-          "_anchor": "content2-1b",
+          "_anchor": "content2-1g",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<br><blockquote><p>Organization skills can be done many ways:</p><ul><li>Organizing your area by using binders, folders, paper clilps, staples, color coordination, etc.</li><li>Organizing yourself mentally by jotting down important information</li><li>Organizing yourself digitally by organizing your file folders, and knowing where digital materials are located</li></ul><p><br></p><p>Once you find your own way of organizing your belongings, you will find yourself to be more efficient! You will be able to retrieve information when asked to do so. You will also feel less stressed out trying to find the thing you're trying to find. It's a win-win situation if you ask me.</p><p><br></p><p>Please return to Dream Big and Achieve on Cloud 9 (PDF) and Complete Task</p></blockquote>"
+          "text": "<br><blockquote><p><span style=\"font-style: normal;\">Organization skills can be done many ways:</span></p><ul><li><span style=\"font-style: normal;\">Organizing your area by using binders, folders, paper clilps, staples, color coordination, etc.</span></li><li><span style=\"font-style: normal;\">Organizing yourself mentally by jotting down important information</span></li><li><span style=\"font-style: normal;\">Organizing yourself digitally by organizing your file folders, and knowing where digital materials are located</span></li></ul><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Once you find your own way of organizing your belongings, you will find yourself to be more efficient! You will be able to retrieve information when asked to do so. You will also feel less stressed out trying to find the thing you're trying to find. It's a win-win situation if you ask me.</span></p><p><br></p><p>Please return to Dream Big and Achieve on Cloud 9 (PDF) and Complete Task</p></blockquote>"
         }
       ]
     },
@@ -868,6 +871,24 @@
         "order": 8
       },
       "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content2-1i",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<br><blockquote><p>In order to prepare for college or university, you need to be on top of your game. You need to be able to not only handle the workload that they throw at you in school, but also the outside work you need to do. This includes preparing for the SAT and ACT. I suggest taking the practice tests of those first. Manage your time effectively and set time aside from your school work and other activities you have planned. Do not wait until the last minute to take the actual ACT and SAT. This will ultimately hurt your scores on them. I highly suggest taking the practice exams of those, but if you would like extra preparation for these exams, please take a look at the following sites:</p><p><br></p><ol><li>act.org</li></ol><p><br></p><p>http://www.act.org/content/act/en/products-and-services/the-act/test-preparation/math-practice-test-questions.html?page=0&amp;chapter=0</p><p><br></p><p>act.org has free online practice material. Their material ranges from English, Math, Reading, Science and Writing. Please go check this website out as a helpful way to practice for the ACT.&nbsp;</p><p>&nbsp; &nbsp; </p><p>&nbsp;&nbsp;&nbsp;&nbsp;2. &nbsp;4tests.com</p><p><br></p><p>https://www.4tests.com/sat#StartExam</p><p><br></p><p>4tests.com offers a variety of tests that you can take, but specifically speaking, the SAT practice test. On this website, you can also click the link in the blue box which will take you to another practice SAT exam. This is a very helpful source for those of you that want extra material.</p><p><br></p><p>Please return to Dream Big and Achieve on Cloud 9 (PDF) and Complete Task</p></blockquote>"
+        },
         {
           "_name": "footer1",
           "_anchor": "footer1-c",
@@ -1028,6 +1049,43 @@
           "title": "Dream Big and Achieve Your Goals On Cloud 9",
           "text": "<b>Cloud 4 - Preparation: How do I prepare?&nbsp;</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1j",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Preparation",
+          "text": "<p>How to Prepare Yourself</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         }
       ]
     },
