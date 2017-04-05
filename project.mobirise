@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Cloud5_Meditation.html",
+    "currentPage": "Contact.html",
     "name": "Dream Big and Achieve On Cloud 9",
     "theme": {
       "name": "mobirise3",
@@ -2090,7 +2090,15 @@
           },
           "title": "Contact Information",
           "text": "If you have any questions regarding Dream Big and Achieve On Cloud 9, please contact Kyan Valipour via e-mail:<br><br>xgemesax@gmail.com",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            }
+          }
         }
       ]
     },
