@@ -678,6 +678,19 @@ h6,
 #ext_menu-b .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#header6-19 .mbr-section-title {
+  color: #28262b;
+}
+#header6-19 .mbr-section-text {
+  color: #565656;
+}
+#msg-box8-1a .mbr-section-title,
+#msg-box8-1a p {
+  color: #fff;
+}
+#content2-1b P {
+  text-align: left;
+}
 #ext_menu-d .hide-buttons .nav-btn {
   display: none !important;
 }
