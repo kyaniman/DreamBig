@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Cloud5_Meditation.html",
+    "currentPage": "Cloud6_LearningAboutYourself.html",
     "name": "Dream Big and Achieve On Cloud 9",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 59,
+    "uniqCompNum": 63,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -1445,6 +1445,118 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Dream Big and Achieve</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Learning Modules</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud1_making_a_decision.html\">Cloud 1: Making a Decision</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud2_TIme_Management.html\">Cloud 2: Time Management</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud3_Organization_Skills.html\">Cloud 3: Organization Skills</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud4_Preparation.html\">Cloud 4: Preparation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud5_Meditation.html\">Cloud 5: Meditation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud6_LearningAboutYourself.html\">Cloud 6: Learn About Yourself</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud7_Research1.html\">Cloud 7: Research 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud8_Research2.html\">Cloud 8: Research 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud9_TheBeginningSteps.html\">Cloud 9: The Beginning Steps</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-1n",
+          "_params": {
+            "imageSize": 50,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#ccc",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/YUEzK3yE6ok",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Dream Big and Achieve Your Goals On Cloud 9",
+          "text": "<b>Cloud 6 - Leaning About Yourself:</b> Knowing what type of learner you are, and discovering your strengths and opportunities.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1q",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Learn About Yourself",
+          "text": "The VARK Questionnaire",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content2-1p",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<br><blockquote><p>In order to know what type of learner you are, you need to know what type of learner you are. Before you take the VARK Questionnaire, try to guess what type of learner you are. It may be that you think that you are one type of learner, but the questionnaire reveals that you are another type. If you feel that you are another type of learner, please try to consider what the questionnaire reveals to you. Try to be open-minded. There may be another way you enjoy learning about things!</p><p><br></p><p>Click the link below to open the VARK Questionnaire:</p><p><br></p><p><a href=\"http://vark-learn.com/the-vark-questionnaire/\" target=\"_blank\">http://vark-learn.com/the-vark-questionnaire/</a></p><p><br></p><p>Please return to Dream Big and Achieve on Cloud 9 (PDF) and Complete Task</p></blockquote>"
         }
       ]
     },

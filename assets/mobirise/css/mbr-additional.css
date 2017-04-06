@@ -927,6 +927,22 @@ h6,
 #ext_menu-k .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#header6-1n .mbr-section-title {
+  color: #28262b;
+}
+#header6-1n .mbr-section-text {
+  color: #565656;
+}
+#msg-box8-1q .mbr-section-title,
+#msg-box8-1q p {
+  color: #fff;
+}
+#msg-box8-1q .lead {
+  color: #ffffff;
+}
+#content2-1p P {
+  text-align: left;
+}
 #ext_menu-o .hide-buttons .nav-btn {
   display: none !important;
 }
