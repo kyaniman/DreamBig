@@ -22,10 +22,12 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 66,
+    "uniqCompNum": 69,
     "versionPublish": "3.12.1",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -193,7 +195,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Dream Big and Achieve</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Learning Modules</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud1_making_a_decision.html\">Cloud 1: Making a Decision</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud2_TIme_Management.html\">Cloud 2: Time Management</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud3_Organization_Skills.html\">Cloud 3: Organization Skills</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud4_Preparation.html\">Cloud 4: Preparation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud5_Meditation.html\">Cloud 5: Meditation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud6_LearningAboutYourself.html\">Cloud 6: Learn About Yourself</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud7_Research1.html\">Cloud 7: Research 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud8_Research2.html\">Cloud 8: Research 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud9_TheBeginningSteps.html\">Cloud 9: The Beginning Steps</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Learning Modules</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud1_making_a_decision.html\">Cloud 1: Making a Decision</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud2_TIme_Management.html\">Cloud 2: Time Management</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud3_Organization_Skills.html\">Cloud 3: Organization Skills</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud4_Preparation.html\">Cloud 4: Preparation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud5_Meditation.html\">Cloud 5: Meditation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud6_LearningAboutYourself.html\">Cloud 6: Learn About Yourself</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud7_Research1.html\">Cloud 7: Research 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud8_Research2.html\">Cloud 8: Research 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud9_TheBeginningSteps.html\">Cloud 9: The Beginning Steps</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         }
       ]
     },
@@ -993,7 +995,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<br><blockquote><p><span style=\"font-style: normal;\">In order to prepare for college or university, you need to be on top of your game. You need to be able to not only handle the workload that they throw at you in school, but also the outside work you need to do. This includes preparing for the SAT and ACT. I suggest taking the practice tests of those first. Manage your time effectively and set time aside from your school work and other activities you have planned. Do not wait until the last minute to take the actual ACT and SAT. This will ultimately hurt your scores on them. I highly suggest taking the practice exams of those, but if you would like extra preparation for these exams, please take a look at the following sites:</span></p><p><br></p><ol><li><span style=\"font-style: normal;\">act.org</span></li></ol><p><br></p><p><a href=\"http://www.act.org/content/act/en/products-and-services/the-act/test-preparation/math-practice-test-questions.html?page=0&amp;chapter=0\" target=\"_blank\">http://www.act.org/content/act/en/products-and-services/the-act/test-preparation/math-practice-test-questions.html?page=0&amp;chapter=0</a></p><p><br></p><p><span style=\"font-style: normal;\">act.org has free online practice material. Their material ranges from English, Math, Reading, Science and Writing. Please go check this website out as a helpful way to practice for the ACT.&nbsp;</span></p><p>&nbsp; &nbsp; </p><p>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-style: normal;\">2. &nbsp;4tests.com</span></p><p><br></p><p><a href=\"https://www.4tests.com/sat#StartExam\" target=\"_blank\">https://www.4tests.com/sat#StartExam</a></p><p><br></p><p><span style=\"font-style: normal;\">4tests.com offers a variety of tests that you can take, but specifically speaking, the SAT practice test. On this website, you can also click the link in the blue box which will take you to another practice SAT exam. This is a very helpful source for those of you that want extra material.</span></p><p><br></p><p>Please return to Dream Big and Achieve on Cloud 9 (PDF) and Complete Task</p></blockquote>"
+          "text": "<br><blockquote><p><span style=\"font-style: normal;\">In order to prepare for college or university, you need to be on top of your game. You need to be able to not only handle the workload that they throw at you in school, but also the outside work you need to do. This includes preparing for the SAT and ACT. I suggest taking the practice tests of those first. Manage your time effectively and set time aside from your school work and other activities you have planned. Do not wait until the last minute to take the actual ACT and SAT. This will ultimately hurt your scores on them. I highly suggest taking the practice exams of those, but if you would like extra preparation for these exams, please take a look at the following sites:</span></p><p><br></p><ol><li><span style=\"font-style: normal;\">act.org</span></li></ol><p><br></p><p><a href=\"http://www.act.org/content/act/en/products-and-services/the-act/test-preparation/math-practice-test-questions.html?page=0&amp;chapter=0\" target=\"_blank\">http://www.act.org/content/act/en/products-and-services/the-act/test-preparation/math-practice-test-questions.html?page=0&amp;chapter=0</a></p><p><br></p><p><span style=\"font-style: normal;\">act.org has free online practice material. Their material ranges from English, Math, Reading, Science and Writing. Please go check this website out as a helpful way to practice for the ACT.&nbsp;</span></p><p>&nbsp; &nbsp; </p><p>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-style: normal;\">2. &nbsp;4tests.com</span></p><p><br></p><p><a href=\"https://www.4tests.com/sat#StartExam\" target=\"_blank\">https://www.4tests.com/sat#StartExam</a></p><p><br></p><p><span style=\"font-style: normal;\">4tests.com offers a variety of tests that you can take, but specifically speaking, the SAT practice test. On this website, you can also click the link in the blue box which will take you to another practice SAT exam. This is a very helpful source for those of you that want extra material.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">There are also books that you can order online off Amazon.com. If you do not prefer self-study, then I suggest considering to hire a tutor. Tutors are a great way to have a set schedule on when to study, plus they are there if you need help.&nbsp;</span></p><p><br></p><p>Please return to Dream Big and Achieve on Cloud 9 (PDF) and Complete Task</p></blockquote>"
         },
         {
           "_name": "footer1",
@@ -1606,10 +1608,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "1.65rem"
+              "font-size": "1.35rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.787rem"
+              "font-size": "1.462rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1670,6 +1672,118 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Dream Big and Achieve</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Learning Modules</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud1_making_a_decision.html\">Cloud 1: Making a Decision</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud2_TIme_Management.html\">Cloud 2: Time Management</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud3_Organization_Skills.html\">Cloud 3: Organization Skills</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud4_Preparation.html\">Cloud 4: Preparation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud5_Meditation.html\">Cloud 5: Meditation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud6_LearningAboutYourself.html\">Cloud 6: Learn About Yourself</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud7_Research1.html\">Cloud 7: Research 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud8_Research2.html\">Cloud 8: Research 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud9_TheBeginningSteps.html\">Cloud 9: The Beginning Steps</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-1u",
+          "_params": {
+            "imageSize": 50,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#ccc",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/ZGffKowKWGk",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Dream Big and Achieve Your Goals On Cloud 9",
+          "text": "<b>Cloud 8 -&nbsp;</b>Researching Colleges and Universities: The benefits of doing research",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1v",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Researching Colleges and Universities&nbsp;",
+          "text": "The Benefits of Doing Research",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content2-1w",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<br><blockquote><p><span style=\"font-style: normal;\">If you are able to research different colleges and universities, you will be able to feel more secure with your future. It will give you the peace of mind that you've been looking for. I know things in life are not easy, but with hardwork you dream big and achieve your goals.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">If you need an idea on how to conduct research on which college or university is best for you, consider the following:</span></p><p><span style=\"font-style: normal;\"><br></span></p><ul><li><span style=\"font-style: normal;\"><b>Is it affordable?</b> Take a look at the cost of the college or university's cost per credit hour. This will give you an idea whether financial aid will be necessary or not.</span></li><li><span style=\"font-style: normal;\"><b>Tip:</b> If you are iffy on the major that you chose still, I highly recommend you take a look at community colleges. They are a great way to start, and offer excellent programs! Plus, they are inexpensive compared to university cost per credit hour.</span></li><li><span style=\"font-style: normal;\">Do they have my major at this college or university?</span></li><li><span style=\"font-style: normal;\">What do I have to do to get admitted to this college or university? &nbsp;</span></li><li><span style=\"font-style: normal;\"><b>Campus Life:</b> What kind of events happen in this college or university? What is the culture like? Do you feel that you would fit in?&nbsp;</span></li><li><span style=\"font-style: normal;\"><b>Clubs and Organizations:</b> Do they have extracurricular clubs and organizations that I can be part of? What do I need to do to be part of them?&nbsp;</span></li></ul><p><br></p><p>Please return to Dream Big and Achieve on Cloud 9 (PDF) and Complete Task</p></blockquote>"
         }
       ]
     },
@@ -1782,7 +1896,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Dream Big and Achieve</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Learning Modules</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud1_making_a_decision.html\">Cloud 1: Making a Decision</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud2_TIme_Management.html\">Cloud 2: Time Management</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud3_Organization_Skills.html\">Cloud 3: Organization Skills</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud4_Preparation.html\">Cloud 4: Preparation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud5_Meditation.html\">Cloud 5: Meditation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud6_LearningAboutYourself.html\">Cloud 6: Learn About Yourself</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud7_Research1.html\">Cloud 7: Research 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud8_Research2.html\">Cloud 8: Research 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud9_TheBeginningSteps.html\">Cloud 9: The Beginning Steps</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Learning Modules</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud1_making_a_decision.html\">Cloud 1: Making a Decision</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud2_TIme_Management.html\">Cloud 2: Time Management</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud3_Organization_Skills.html\">Cloud 3: Organization Skills</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud4_Preparation.html\">Cloud 4: Preparation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud5_Meditation.html\">Cloud 5: Meditation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud6_LearningAboutYourself.html\">Cloud 6: Learn About Yourself</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud7_Research1.html\">Cloud 7: Research 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud8_Research2.html\">Cloud 8: Research 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud9_TheBeginningSteps.html\">Cloud 9: The Beginning Steps</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_inherit": "header2",
@@ -1826,7 +1940,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/YUEzK3yE6ok",
+              "src": "https://youtu.be/ZGffKowKWGk",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -1894,7 +2008,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<br><blockquote><p>So, how exactly do I know which major is right for me? By now you've asked yourself all of the previous questions, taken the VARK questionnaire, and taken a look at your strengths and opportunities. What should I do now? Narrow it down! Once you have found the right one that fits you, try to use job search engines to get an idea of what the requirements are for the job. For example, let's take a look at some job search engines with a specific search for the keyword, instructional design:</p><p><br></p><p><a href=\"https://www.indeed.com/jobs?q=instructional+design&amp;l=\" target=\"_blank\">https://www.indeed.com/jobs?q=instructional+design&amp;l=</a></p><p><br></p><p><a href=\"http://www.careerbuilder.com/jobs-instructional-designer?keywords=instructional+designer&amp;location=\" target=\"_blank\">http://www.careerbuilder.com/jobs-instructional-designer?keywords=instructional+designer&amp;location=</a></p><p><br></p><p>Click on some of the instructional design jobs offered in your area. Do you notice a common trend as to what the job requirements are for that job opportunity? &nbsp;</p><p><br></p><p>Please return to Dream Big and Achieve on Cloud 9 (PDF) and Complete Task</p></blockquote>"
+          "text": "<br><blockquote><p>So, how exactly do I know which major is right for me? By now you've asked yourself all of the previous questions, taken the VARK questionnaire, and taken a look at your strengths and opportunities. What should I do now? Narrow it down to 1! Once you have found the right one that fits you, try to use job search engines to get an idea of what the requirements are for the job. For example, let's take a look at some job search engines with a specific search for the keyword, instructional design:</p><p><br></p><p><a href=\"https://www.indeed.com/jobs?q=instructional+design&amp;l=\" target=\"_blank\">https://www.indeed.com/jobs?q=instructional+design&amp;l=</a></p><p><br></p><p><a href=\"http://www.careerbuilder.com/jobs-instructional-designer?keywords=instructional+designer&amp;location=\" target=\"_blank\">http://www.careerbuilder.com/jobs-instructional-designer?keywords=instructional+designer&amp;location=</a></p><p><br></p><p>Click on some of the instructional design jobs offered in your area. Do you notice a common trend as to what the job requirements are for that job opportunity? &nbsp;</p><p><br></p><p>Please return to Dream Big and Achieve on Cloud 9 (PDF) and Complete Task</p></blockquote>"
         }
       ]
     },
@@ -2292,6 +2406,14 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "header1-1d",
           "_params": {
             "parallax": true,
@@ -2314,15 +2436,7 @@
           },
           "title": "Contact Information",
           "text": "If you have any questions regarding Dream Big and Achieve On Cloud 9, please contact Kyan Valipour via e-mail:<br><br>xgemesax@gmail.com",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-lead": {
-              "color": "#000000"
-            },
-            ".mbr-section-title": {
-              "color": "#000000"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         }
       ]
     },
