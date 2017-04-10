@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Cloud9_TheBeginningSteps.html",
+    "currentPage": "Cloud9_YouveMadeIt.html",
     "name": "Dream Big and Achieve On Cloud 9",
     "theme": {
       "name": "mobirise3",
@@ -2012,231 +2012,6 @@
         }
       ]
     },
-    "Cloud9_TheBeginningSteps.html": {
-      "settings": {
-        "title": "The Beginning Steps",
-        "meta_descr": "Congrats, you have made it to cloud 9! The last thing you need to do is register and apply to the school. ",
-        "order": 13
-      },
-      "components": [
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-p",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2017 Dream Big and Achieve Your Goals on Cloud 9."
-        },
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "1.35rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.462rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-q",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": "1.35",
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/cloud-9-165x128.jpg",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Dream Big and Achieve</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Learning Modules</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud1_making_a_decision.html\">Cloud 1: Making a Decision</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud2_TIme_Management.html\">Cloud 2: Time Management</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud3_Organization_Skills.html\">Cloud 3: Organization Skills</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud4_Preparation.html\">Cloud 4: Preparation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud5_Meditation.html\">Cloud 5: Meditation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud6_LearningAboutYourself.html\">Cloud 6: Learn About Yourself</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud7_Research1.html\">Cloud 7: Research 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud8_Research2.html\">Cloud 8: Research 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud9_TheBeginningSteps.html\">Cloud 9: The Beginning Steps</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
-        },
-        {
-          "_inherit": "header2",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#28262b"
-            },
-            ".mbr-section-text": {
-              "color": "#565656"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header6",
-          "_anchor": "header6-1x",
-          "_params": {
-            "imageSize": 50,
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.9",
-            "overlayColor": "#ccc",
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": true
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://youtu.be/YUEzK3yE6ok",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "Dream Big and Achieve Your Goals On Cloud 9",
-          "text": "<b>Cloud 9 - Apply to Financial Aid and Register to College or University: You've Made It!</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".lead": {
-              "color": "#ffffff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-1y",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
-          },
-          "title": "Apply to Financial Aid and Register to College or University",
-          "text": "<p>You've Made It!</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "content2-1z",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<br><blockquote><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Congrats on making it to Cloud 9!&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5; font-style: normal;\">In order to be seal the deal, you must apply to financial aid and register.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5; font-style: normal;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5; font-style: normal;\"><b>Applying to Financial Aid</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5; font-style: normal;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5; font-style: normal;\">Keep in mind that all colleges and universities are different. Please take a look at their website, or if you can visit the actual campus itself it would be best.&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5; font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Applying to financial aid can be confusing at times. I suggest applying to financial aid first before registering. Also, do this a few months before registering for classes. The first thing you need to be aware of is the deadlines. Please visit the college or university's site to see deadline dates for Financial aid. Once you know your deadline date, please visit <a href=\"fafsa.gov\" target=\"_blank\">fafsa.gov</a>&nbsp;to apply to financial aid. You will need to spend time doing this. So, be sure to have at least 30 minutes to sit down and do this application. Once you submit your electronic application, your school will be notified that you have completed it. Usually schools will have an online status to show you the status of your application. Some show 'pending' or 'in progress'. All colleges and universities are different.&nbsp;</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><b style=\"font-style: normal;\">Registering for College/University</b></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">When you are registering to the college or university of choice, keep in mind what they need you to do. Every college or university has a set list of things they need when going through the admissions process. For example:</span></p><p><span style=\"font-style: normal;\"><br></span></p><ul><li><span style=\"font-style: normal;\">Complete Apply Online link to register (Be sure to look at deadlines)</span></li><li><span style=\"font-style: normal;\">Provide transcripts of all institutions attended</span></li><li><span style=\"font-style: normal;\">Provide shot records (e.g. meningitis if needed)</span></li><li><span style=\"font-style: normal;\">Assessment Testing - depending on your state regulations</span></li><li><span style=\"font-style: normal;\">Visit with Academic Advisor for degree plan</span></li><li><span style=\"font-style: normal;\">Build a class schedule</span></li><li><span style=\"font-style: normal;\">Register</span></li><li><span style=\"font-style: normal;\">Pay for classes&nbsp;</span></li></ul><p><br></p><p>Please return to Dream Big and Achieve on Cloud 9 (PDF) and Complete Task</p></blockquote>"
-        }
-      ]
-    },
     "About.html": {
       "settings": {
         "title": "About",
@@ -2717,6 +2492,231 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Dream Big and Achieve</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Learning Modules</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud1_making_a_decision.html\">Cloud 1: Making a Decision</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud2_TIme_Management.html\">Cloud 2: Time Management</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud3_Organization_Skills.html\">Cloud 3: Organization Skills</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud4_Preparation.html\">Cloud 4: Preparation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud5_Meditation.html\">Cloud 5: Meditation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud6_LearningAboutYourself.html\">Cloud 6: Learn About Yourself</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud7_Research1.html\">Cloud 7: Research 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud8_Research2.html\">Cloud 8: Research 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud9_TheBeginningSteps.html\">Cloud 9: The Beginning Steps</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        }
+      ]
+    },
+    "Cloud9_YouveMadeIt.html": {
+      "settings": {
+        "title": "You've Made It!",
+        "meta_descr": "Congrats, you have made it to cloud 9! The last thing you need to do is register and apply to the school. ",
+        "order": 13
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-p",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Dream Big and Achieve Your Goals on Cloud 9."
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1.35rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.462rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-q",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "1.35",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/cloud-9-165x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Dream Big and Achieve</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Learning Modules</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud1_making_a_decision.html\">Cloud 1: Making a Decision</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud2_TIme_Management.html\">Cloud 2: Time Management</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud3_Organization_Skills.html\">Cloud 3: Organization Skills</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud4_Preparation.html\">Cloud 4: Preparation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud5_Meditation.html\">Cloud 5: Meditation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud6_LearningAboutYourself.html\">Cloud 6: Learn About Yourself</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud7_Research1.html\">Cloud 7: Research 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud8_Research2.html\">Cloud 8: Research 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cloud9_TheBeginningSteps.html\">Cloud 9: The Beginning Steps</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-1x",
+          "_params": {
+            "imageSize": 50,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#ccc",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/YUEzK3yE6ok",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Dream Big and Achieve Your Goals On Cloud 9",
+          "text": "<b>Cloud 9 - Apply to Financial Aid and Register to College or University: You've Made It!</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1y",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Apply to Financial Aid and Register to College or University",
+          "text": "<p>You've Made It!</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content2-1z",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<br><blockquote><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Congrats on making it to Cloud 9!&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5; font-style: normal;\">In order to be seal the deal, you must apply to financial aid and register.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5; font-style: normal;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5; font-style: normal;\"><b>Applying to Financial Aid</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5; font-style: normal;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5; font-style: normal;\">Keep in mind that all colleges and universities are different. Please take a look at their website, or if you can visit the actual campus itself it would be best.&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5; font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Applying to financial aid can be confusing at times. I suggest applying to financial aid first before registering. Also, do this a few months before registering for classes. The first thing you need to be aware of is the deadlines. Please visit the college or university's site to see deadline dates for Financial aid. Once you know your deadline date, please visit <a href=\"fafsa.gov\" target=\"_blank\">fafsa.gov</a>&nbsp;to apply to financial aid. You will need to spend time doing this. So, be sure to have at least 30 minutes to sit down and do this application. Once you submit your electronic application, your school will be notified that you have completed it. Usually schools will have an online status to show you the status of your application. Some show 'pending' or 'in progress'. All colleges and universities are different.&nbsp;</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><b style=\"font-style: normal;\">Registering for College/University</b></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">When you are registering to the college or university of choice, keep in mind what they need you to do. Every college or university has a set list of things they need when going through the admissions process. For example:</span></p><p><span style=\"font-style: normal;\"><br></span></p><ul><li><span style=\"font-style: normal;\">Complete Apply Online link to register (Be sure to look at deadlines)</span></li><li><span style=\"font-style: normal;\">Provide transcripts of all institutions attended</span></li><li><span style=\"font-style: normal;\">Provide shot records (e.g. meningitis if needed)</span></li><li><span style=\"font-style: normal;\">Assessment Testing - depending on your state regulations</span></li><li><span style=\"font-style: normal;\">Visit with Academic Advisor for degree plan</span></li><li><span style=\"font-style: normal;\">Build a class schedule</span></li><li><span style=\"font-style: normal;\">Register</span></li><li><span style=\"font-style: normal;\">Pay for classes&nbsp;</span></li></ul><p><br></p><p>Please return to Dream Big and Achieve on Cloud 9 (PDF) and Complete Task</p></blockquote>"
         }
       ]
     }
